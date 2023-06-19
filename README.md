@@ -34,9 +34,6 @@
     <a href="https://wordpress.org/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/></code>  
     </a>
-    <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/></code>  
-    </a>
     <a href="https://www.arduino.cc/" target="_blank">
         <code><img src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="40" /></code>
     </a>
